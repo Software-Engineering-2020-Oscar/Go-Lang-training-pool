@@ -1,7 +1,7 @@
 # `GO LANG` TRAINING POOL
 
 <p align = "center">
-  <img src = "https://gophercises.com/img/gophercises_punching.gif" width = "500" height = "250"/>
+  <img src = "https://miro.medium.com/max/5000/1*tVgnMO387vFxY46jRL3nZQ.png" width = "500" height = "250"/>
 </p>
 
 <p align = "center">This should be a training repo you can expect.</p>
